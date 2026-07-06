@@ -110,7 +110,7 @@ export default function Home() {
 
           <div className="flex flex-wrap gap-3 border-t bg-gray-50 p-6">
             <Link href="/ranking" className="rounded-lg border border-indigo-600 px-5 py-3 text-indigo-600 hover:bg-indigo-50">
-              View Full Ranking
+              Ver ranking completo
             </Link>
 
             <a
@@ -119,11 +119,11 @@ export default function Home() {
               rel="noopener noreferrer"
               className="rounded-lg border border-indigo-600 px-5 py-3 text-indigo-600 hover:bg-indigo-50"
             >
-              Open Tableau Dashboard
+              Acceder monitor de backlog
             </a>
 
             <button className="rounded-lg bg-indigo-600 px-5 py-3 text-white hover:bg-indigo-700">
-              Assign Owners
+              Reasignar ticket
             </button>
           </div>
         </div>

@@ -1,0 +1,122 @@
+Fecha_corte_tkt,Ticket_ID,Fecha_creacion,Fecha_cierre,Canal,Categoria,Subcategoria,Pais,SLA_horas,Tiempo_resolucion_horas,Estado,Satisfaccion_cliente,Analista,Prioridad,Nivel_Esforzo_Operativo,SLA_COMPLIANCE,Edad_Dias,Peso_Prioridad,Pct_SLA,Score_Escalamiento
+2026-06-18,TKT-10703,2025-12-01,,Chat,Consulta,Entrega tardía,Perú,48,,Pendiente,,Diego Herrera,Alta,Alto,,199,1,99.5,100
+2026-06-18,TKT-10853,2025-12-02,,Email,Consulta,Entrega tardía,Panamá,48,,Pendiente,,María Torres,Alta,Medio,,198,1,99,100
+2026-06-18,TKT-10220,2025-12-03,,Chat,Devolución,Información general,Costa Rica,72,,Pendiente,,Laura Méndez,Alta,Alto,,197,1,65.6666666666667,100
+2026-06-18,TKT-10863,2025-12-03,,Email,Devolución,Información general,México,72,,Pendiente,,Sofía Castillo,Alta,Bajo,,197,1,65.6666666666667,100
+2026-06-18,TKT-10399,2025-12-25,,Email,Consulta,Información general,Panamá,24,,Pendiente,,Carlos Ruiz,Alta,Medio,,175,1,175,100
+2026-06-18,TKT-10548,2025-12-27,,Chat,Reclamo,Información general,Perú,48,,Pendiente,,Ana Pérez,Alta,Alto,,173,1,86.5,100
+2026-06-18,TKT-10357,2026-01-11,,Email,Consulta,Error de cobro,Colombia,72,,Pendiente,,Laura Méndez,Alta,Bajo,,158,1,52.6666666666667,100
+2026-06-18,TKT-10058,2026-01-16,,Email,Consulta,Entrega tardía,Panamá,72,,Pendiente,,Laura Méndez,Alta,Alto,,153,1,51,100
+2026-06-18,TKT-10892,2026-01-19,,Teléfono,Reclamo,Cambio de producto,México,72,,Pendiente,,Ana Pérez,Alta,Bajo,,150,1,50,100
+2026-06-18,TKT-10589,2026-01-20,,Email,Reembolso,Entrega tardía,Panamá,48,,Pendiente,,María Torres,Alta,Alto,,149,1,74.5,100
+2026-06-18,TKT-10365,2026-01-24,,Email,Devolución,Información general,Colombia,48,,Pendiente,,Laura Méndez,Alta,Medio,,145,1,72.5,100
+2026-06-18,TKT-10244,2026-01-26,,Email,Reclamo,Producto dañado,Panamá,24,,Pendiente,,Carlos Ruiz,Alta,Bajo,,143,1,143,100
+2026-06-18,TKT-10012,2026-02-02,,Email,Consulta,Tracking,Colombia,24,,Pendiente,,Carlos Ruiz,Alta,Bajo,,136,1,136,100
+2026-06-18,TKT-10945,2026-02-06,,Teléfono,Consulta,Entrega tardía,Costa Rica,48,,Pendiente,,María Torres,Alta,Alto,,132,1,66,100
+2026-06-18,TKT-10416,2026-02-06,,Chat,Consulta,Producto dañado,Costa Rica,24,,Pendiente,,Ana Pérez,Alta,Medio,,132,1,132,100
+2026-06-18,TKT-10955,2026-02-07,,Teléfono,Consulta,Producto dañado,Costa Rica,24,,Pendiente,,Laura Méndez,Alta,Bajo,,131,1,131,100
+2026-06-18,TKT-10165,2026-02-08,,Email,Consulta,Cambio de producto,Perú,24,,Pendiente,,Diego Herrera,Alta,Bajo,,130,1,130,100
+2026-06-18,TKT-10647,2026-02-12,,Teléfono,Reclamo,Producto dañado,México,24,,Pendiente,,Ana Pérez,Alta,Medio,,126,1,126,100
+2026-06-18,TKT-10531,2026-02-18,,Teléfono,Consulta,Producto dañado,Perú,72,,Pendiente,,Luis Gómez,Alta,Bajo,,120,1,40,100
+2026-06-18,TKT-10030,2026-02-20,,Teléfono,Reclamo,Información general,Costa Rica,48,,Pendiente,,Laura Méndez,Alta,Bajo,,118,1,59,100
+2026-06-18,TKT-10916,2026-03-10,,Teléfono,Devolución,Tracking,Perú,24,,Pendiente,,María Torres,Alta,Medio,,100,1,100,100
+2026-06-18,TKT-10462,2026-03-22,,Chat,Devolución,Información general,Perú,24,,Pendiente,,Laura Méndez,Alta,Medio,,88,1,88,100
+2026-06-18,TKT-10132,2026-03-26,,Teléfono,Consulta,Entrega tardía,Colombia,72,,Pendiente,,Luis Gómez,Alta,Bajo,,84,1,28,100
+2026-06-18,TKT-10023,2026-04-07,,Email,Consulta,Información general,Panamá,24,,Pendiente,,Ana Pérez,Alta,Medio,,72,1,72,100
+2026-06-18,TKT-10221,2026-04-08,,Email,Reclamo,Tracking,Panamá,24,,Pendiente,,Sofía Castillo,Alta,Bajo,,71,1,71,100
+2026-06-18,TKT-10684,2026-04-15,,Email,Consulta,Producto dañado,Panamá,48,,Pendiente,,Luis Gómez,Alta,Medio,,64,1,32,100
+2026-06-18,TKT-10494,2026-04-22,,Chat,Reclamo,Producto dañado,Costa Rica,48,,Pendiente,,Sofía Castillo,Alta,Bajo,,57,1,28.5,100
+2026-06-18,TKT-10846,2026-04-26,,Teléfono,Consulta,Cambio de producto,México,48,,Pendiente,,Ana Pérez,Alta,Bajo,,53,1,26.5,100
+2026-06-18,TKT-10419,2026-05-03,,Chat,Consulta,Cambio de producto,Costa Rica,48,,Pendiente,,Ana Pérez,Alta,Alto,,46,1,23,100
+2026-06-18,TKT-10157,2026-05-05,,Email,Reembolso,Cambio de producto,Perú,72,,Pendiente,,Carlos Ruiz,Alta,Medio,,44,1,14.6666666666667,100
+2026-06-18,TKT-10480,2026-05-09,,Teléfono,Reembolso,Información general,Colombia,48,,Pendiente,,Ana Pérez,Alta,Medio,,40,1,20,100
+2026-06-18,TKT-10289,2026-05-12,,Teléfono,Reclamo,Tracking,Costa Rica,48,,Pendiente,,María Torres,Alta,Bajo,,37,1,18.5,100
+2026-06-18,TKT-10470,2026-05-15,,Chat,Reclamo,Error de cobro,Perú,24,,Pendiente,,Laura Méndez,Alta,Bajo,,34,1,34,100
+2026-06-18,TKT-10591,2026-05-20,,Email,Devolución,Entrega tardía,Perú,72,,Pendiente,,Carlos Ruiz,Alta,Alto,,29,1,9.66666666666667,99.3333333333333
+2026-06-18,TKT-10100,2026-05-22,,Email,Reclamo,Entrega tardía,Panamá,72,,Pendiente,,Luis Gómez,Alta,Alto,,27,1,9,98
+2026-06-18,TKT-10524,2026-05-23,,Email,Devolución,Error de cobro,México,72,,Pendiente,,Sofía Castillo,Alta,Bajo,,26,1,8.66666666666667,97.3333333333333
+2026-06-18,TKT-10948,2026-05-26,,Email,Consulta,Entrega tardía,Colombia,24,,Pendiente,,Diego Herrera,Alta,Bajo,,23,1,23,95.3333333333333
+2026-06-18,TKT-10811,2026-05-28,,Email,Reclamo,Tracking,Panamá,72,,Pendiente,,Laura Méndez,Alta,Medio,,21,1,7,94
+2026-06-18,TKT-10748,2026-06-04,,Email,Consulta,Tracking,México,72,,Pendiente,,María Torres,Alta,Bajo,,14,1,4.66666666666667,89.3333333333333
+2026-06-18,TKT-10361,2025-12-05,,Email,Reclamo,Producto dañado,Perú,24,,Pendiente,,Carlos Ruiz,Media,Medio,,195,0.6,195,88
+2026-06-18,TKT-10300,2025-12-10,,Email,Reembolso,Error de cobro,Costa Rica,72,,Pendiente,,Sofía Castillo,Media,Bajo,,190,0.6,63.3333333333333,88
+2026-06-18,TKT-10062,2025-12-15,,Chat,Devolución,Cambio de producto,Panamá,48,,Pendiente,,Luis Gómez,Media,Bajo,,185,0.6,92.5,88
+2026-06-18,TKT-10987,2025-12-20,,Teléfono,Reclamo,Tracking,Perú,48,,Pendiente,,Carlos Ruiz,Media,Medio,,180,0.6,90,88
+2026-06-18,TKT-10674,2025-12-23,,Teléfono,Devolución,Tracking,Panamá,48,,Pendiente,,María Torres,Media,Bajo,,177,0.6,88.5,88
+2026-06-18,TKT-10174,2025-12-23,,Email,Consulta,Cambio de producto,Costa Rica,72,,Pendiente,,María Torres,Media,Medio,,177,0.6,59,88
+2026-06-18,TKT-10573,2025-12-26,,Email,Reclamo,Entrega tardía,Costa Rica,24,,Pendiente,,Luis Gómez,Media,Alto,,174,0.6,174,88
+2026-06-18,TKT-10773,2025-12-28,,Email,Reclamo,Error de cobro,Panamá,24,,Pendiente,,Diego Herrera,Media,Alto,,172,0.6,172,88
+2026-06-18,TKT-10444,2025-12-30,,Email,Reclamo,Producto dañado,Costa Rica,72,,Pendiente,,Carlos Ruiz,Media,Bajo,,170,0.6,56.6666666666667,88
+2026-06-18,TKT-10687,2026-01-02,,Chat,Reclamo,Entrega tardía,Perú,24,,Pendiente,,Carlos Ruiz,Media,Bajo,,167,0.6,167,88
+2026-06-18,TKT-10746,2026-01-03,,Email,Reclamo,Cambio de producto,Panamá,48,,Pendiente,,Carlos Ruiz,Media,Medio,,166,0.6,83,88
+2026-06-18,TKT-10783,2026-01-17,,Chat,Reclamo,Entrega tardía,Costa Rica,24,,Pendiente,,María Torres,Media,Bajo,,152,0.6,152,88
+2026-06-18,TKT-10278,2026-01-20,,Teléfono,Consulta,Información general,Panamá,72,,Pendiente,,Sofía Castillo,Media,Bajo,,149,0.6,49.6666666666667,88
+2026-06-18,TKT-10341,2026-01-22,,Chat,Consulta,Error de cobro,Perú,72,,Pendiente,,María Torres,Media,Medio,,147,0.6,49,88
+2026-06-18,TKT-10121,2026-01-28,,Email,Consulta,Entrega tardía,Costa Rica,72,,Pendiente,,Luis Gómez,Media,Medio,,141,0.6,47,88
+2026-06-18,TKT-10457,2026-01-31,,Chat,Reclamo,Producto dañado,Colombia,24,,Pendiente,,Ana Pérez,Media,Bajo,,138,0.6,138,88
+2026-06-18,TKT-10380,2026-01-31,,Teléfono,Reclamo,Información general,Panamá,72,,Pendiente,,Diego Herrera,Media,Alto,,138,0.6,46,88
+2026-06-18,TKT-10697,2026-02-05,,Chat,Devolución,Producto dañado,Panamá,24,,Pendiente,,Sofía Castillo,Media,Bajo,,133,0.6,133,88
+2026-06-18,TKT-10771,2026-02-10,,Chat,Devolución,Cambio de producto,Perú,48,,Pendiente,,Laura Méndez,Media,Medio,,128,0.6,64,88
+2026-06-18,TKT-10295,2026-02-10,,Teléfono,Reclamo,Información general,Colombia,72,,Pendiente,,María Torres,Media,Alto,,128,0.6,42.6666666666667,88
+2026-06-18,TKT-10412,2026-02-12,,Email,Reclamo,Producto dañado,México,24,,Pendiente,,Laura Méndez,Media,Alto,,126,0.6,126,88
+2026-06-18,TKT-10856,2026-02-14,,Email,Reembolso,Error de cobro,Panamá,24,,Pendiente,,Ana Pérez,Media,Medio,,124,0.6,124,88
+2026-06-18,TKT-10676,2026-02-21,,Email,Consulta,Cambio de producto,Panamá,72,,Pendiente,,María Torres,Media,Bajo,,117,0.6,39,88
+2026-06-18,TKT-10829,2026-02-24,,Email,Reclamo,Producto dañado,Costa Rica,24,,Pendiente,,Laura Méndez,Media,Alto,,114,0.6,114,88
+2026-06-18,TKT-10118,2026-03-02,,Chat,Consulta,Error de cobro,México,72,,Pendiente,,Carlos Ruiz,Media,Medio,,108,0.6,36,88
+2026-06-18,TKT-10257,2026-03-11,,Chat,Reclamo,Cambio de producto,Panamá,24,,Pendiente,,María Torres,Media,Alto,,99,0.6,99,88
+2026-06-18,TKT-10337,2026-03-28,,Email,Reclamo,Cambio de producto,Colombia,24,,Pendiente,,Sofía Castillo,Media,Medio,,82,0.6,82,88
+2026-06-18,TKT-10343,2026-03-30,,Chat,Consulta,Error de cobro,Panamá,48,,Pendiente,,Luis Gómez,Media,Alto,,80,0.6,40,88
+2026-06-18,TKT-10507,2026-04-03,,Email,Reclamo,Cambio de producto,Costa Rica,48,,Pendiente,,Diego Herrera,Media,Medio,,76,0.6,38,88
+2026-06-18,TKT-10225,2026-04-11,,Chat,Devolución,Tracking,Costa Rica,72,,Pendiente,,Carlos Ruiz,Media,Bajo,,68,0.6,22.6666666666667,88
+2026-06-18,TKT-10117,2026-04-20,,Teléfono,Devolución,Información general,Perú,48,,Pendiente,,Laura Méndez,Media,Bajo,,59,0.6,29.5,88
+2026-06-18,TKT-10421,2026-04-20,,Chat,Reclamo,Producto dañado,Costa Rica,48,,Pendiente,,Diego Herrera,Media,Alto,,59,0.6,29.5,88
+2026-06-18,TKT-10981,2026-04-21,,Email,Devolución,Entrega tardía,Panamá,48,,Pendiente,,Sofía Castillo,Media,Bajo,,58,0.6,29,88
+2026-06-18,TKT-10393,2026-04-23,,Teléfono,Devolución,Tracking,Colombia,48,,Pendiente,,Ana Pérez,Media,Alto,,56,0.6,28,88
+2026-06-18,TKT-10238,2026-04-27,,Email,Reclamo,Entrega tardía,Perú,24,,Pendiente,,María Torres,Media,Alto,,52,0.6,52,88
+2026-06-18,TKT-10242,2026-05-02,,Email,Reembolso,Tracking,Costa Rica,72,,Pendiente,,Carlos Ruiz,Media,Alto,,47,0.6,15.6666666666667,88
+2026-06-18,TKT-10167,2026-05-07,,Teléfono,Consulta,Error de cobro,Panamá,72,,Pendiente,,Sofía Castillo,Media,Medio,,42,0.6,14,88
+2026-06-18,TKT-10136,2026-05-08,,Email,Reclamo,Cambio de producto,México,48,,Pendiente,,Luis Gómez,Media,Medio,,41,0.6,20.5,88
+2026-06-18,TKT-10739,2026-05-13,,Chat,Reclamo,Cambio de producto,Colombia,48,,Pendiente,,Luis Gómez,Media,Medio,,36,0.6,18,88
+2026-06-18,TKT-10641,2026-05-22,,Email,Consulta,Entrega tardía,México,24,,Pendiente,,Luis Gómez,Media,Alto,,27,0.6,27,86
+2026-06-18,TKT-10396,2026-05-24,,Chat,Reclamo,Tracking,Perú,48,,Pendiente,,Ana Pérez,Media,Bajo,,25,0.6,12.5,84.6666666666667
+2026-06-18,TKT-10230,2026-05-27,,Email,Consulta,Cambio de producto,Perú,48,,Pendiente,,Diego Herrera,Media,Medio,,22,0.6,11,82.6666666666667
+2026-06-18,TKT-10576,2025-12-07,,Email,Consulta,Error de cobro,Colombia,72,,Pendiente,,Diego Herrera,Baja,Bajo,,193,0.3,64.3333333333333,79
+2026-06-18,TKT-10192,2025-12-20,,Email,Consulta,Error de cobro,Panamá,48,,Pendiente,,Laura Méndez,Baja,Bajo,,180,0.3,90,79
+2026-06-18,TKT-10155,2025-12-21,,Email,Devolución,Producto dañado,México,72,,Pendiente,,Laura Méndez,Baja,Alto,,179,0.3,59.6666666666667,79
+2026-06-18,TKT-10725,2025-12-21,,Email,Consulta,Error de cobro,Costa Rica,24,,Pendiente,,Sofía Castillo,Baja,Alto,,179,0.3,179,79
+2026-06-18,TKT-10302,2025-12-23,,Teléfono,Devolución,Tracking,Panamá,72,,Pendiente,,Ana Pérez,Baja,Bajo,,177,0.3,59,79
+2026-06-18,TKT-10880,2025-12-28,,Email,Consulta,Entrega tardía,Perú,24,,Pendiente,,Carlos Ruiz,Baja,Medio,,172,0.3,172,79
+2026-06-18,TKT-10719,2025-12-30,,Chat,Reembolso,Información general,Panamá,72,,Pendiente,,Diego Herrera,Baja,Bajo,,170,0.3,56.6666666666667,79
+2026-06-18,TKT-10239,2026-01-07,,Email,Consulta,Error de cobro,Perú,48,,Pendiente,,Ana Pérez,Baja,Alto,,162,0.3,81,79
+2026-06-18,TKT-10777,2026-01-09,,Teléfono,Devolución,Error de cobro,Colombia,24,,Pendiente,,Sofía Castillo,Baja,Alto,,160,0.3,160,79
+2026-06-18,TKT-10051,2026-01-17,,Chat,Consulta,Producto dañado,Perú,72,,Pendiente,,Sofía Castillo,Baja,Alto,,152,0.3,50.6666666666667,79
+2026-06-18,TKT-10002,2026-01-19,,Chat,Consulta,Producto dañado,Costa Rica,72,,Pendiente,,María Torres,Baja,Alto,,150,0.3,50,79
+2026-06-18,TKT-10315,2026-01-20,,Email,Consulta,Producto dañado,Colombia,48,,Pendiente,,Sofía Castillo,Baja,Alto,,149,0.3,74.5,79
+2026-06-18,TKT-10285,2026-02-15,,Chat,Consulta,Información general,Costa Rica,24,,Pendiente,,María Torres,Baja,Bajo,,123,0.3,123,79
+2026-06-18,TKT-10747,2026-02-16,,Chat,Reclamo,Información general,Colombia,48,,Pendiente,,Sofía Castillo,Baja,Alto,,122,0.3,61,79
+2026-06-18,TKT-10797,2026-02-16,,Email,Devolución,Tracking,Costa Rica,72,,Pendiente,,Luis Gómez,Baja,Medio,,122,0.3,40.6666666666667,79
+2026-06-18,TKT-10156,2026-03-01,,Email,Consulta,Producto dañado,Panamá,72,,Pendiente,,Ana Pérez,Baja,Alto,,109,0.3,36.3333333333333,79
+2026-06-18,TKT-10779,2026-03-03,,Teléfono,Reclamo,Tracking,México,72,,Pendiente,,Diego Herrera,Baja,Medio,,107,0.3,35.6666666666667,79
+2026-06-18,TKT-10967,2026-03-05,,Email,Reclamo,Información general,Perú,48,,Pendiente,,Luis Gómez,Baja,Bajo,,105,0.3,52.5,79
+2026-06-18,TKT-10932,2026-03-06,,Email,Devolución,Cambio de producto,Colombia,48,,Pendiente,,Ana Pérez,Baja,Bajo,,104,0.3,52,79
+2026-06-18,TKT-10273,2026-04-02,,Email,Consulta,Información general,Perú,24,,Pendiente,,María Torres,Baja,Alto,,77,0.3,77,79
+2026-06-18,TKT-10569,2026-04-07,,Chat,Reembolso,Entrega tardía,Costa Rica,72,,Pendiente,,Luis Gómez,Baja,Alto,,72,0.3,24,79
+2026-06-18,TKT-10152,2026-04-13,,Email,Devolución,Información general,Costa Rica,48,,Pendiente,,Laura Méndez,Baja,Medio,,66,0.3,33,79
+2026-06-18,TKT-10460,2026-04-18,,Chat,Consulta,Entrega tardía,Panamá,24,,Pendiente,,Carlos Ruiz,Baja,Medio,,61,0.3,61,79
+2026-06-18,TKT-10463,2026-04-30,,Email,Devolución,Entrega tardía,Panamá,48,,Pendiente,,Laura Méndez,Baja,Medio,,49,0.3,24.5,79
+2026-06-18,TKT-10087,2026-05-07,,Email,Devolución,Información general,México,24,,Pendiente,,Carlos Ruiz,Baja,Bajo,,42,0.3,42,79
+2026-06-18,TKT-10383,2026-05-09,,Email,Consulta,Cambio de producto,Costa Rica,24,,Pendiente,,Laura Méndez,Baja,Bajo,,40,0.3,40,79
+2026-06-18,TKT-10510,2026-05-09,,Email,Reclamo,Tracking,Colombia,48,,Pendiente,,Luis Gómez,Baja,Alto,,40,0.3,20,79
+2026-06-18,TKT-10557,2026-05-14,,Teléfono,Devolución,Error de cobro,Panamá,24,,Pendiente,,Laura Méndez,Baja,Medio,,35,0.3,35,79
+2026-06-18,TKT-10564,2026-05-17,,Chat,Reembolso,Entrega tardía,Panamá,48,,Pendiente,,Ana Pérez,Baja,Medio,,32,0.3,16,79
+2026-06-18,TKT-10983,2026-05-20,,Chat,Reclamo,Cambio de producto,Panamá,24,,Pendiente,,Luis Gómez,Baja,Bajo,,29,0.3,29,78.3333333333333
+2026-06-18,TKT-10762,2026-06-04,,Email,Devolución,Tracking,Perú,24,,Pendiente,,Ana Pérez,Media,Medio,,14,0.6,14,77.3333333333333
+2026-06-18,TKT-10944,2026-05-23,,Teléfono,Reclamo,Tracking,Costa Rica,24,,Pendiente,,Ana Pérez,Baja,Alto,,26,0.3,26,76.3333333333333
+2026-06-18,TKT-10626,2026-06-07,,Chat,Reclamo,Cambio de producto,Colombia,72,,Pendiente,,María Torres,Media,Alto,,11,0.6,3.66666666666667,75.3333333333333
+2026-06-18,TKT-10200,2026-06-10,,Email,Reembolso,Error de cobro,Panamá,72,,Pendiente,,Sofía Castillo,Media,Alto,,8,0.6,2.66666666666667,73.3333333333333
+2026-06-18,TKT-10966,2026-06-01,,Email,Consulta,Tracking,Perú,24,,Pendiente,,Ana Pérez,Baja,Alto,,17,0.3,17,70.3333333333333
+2026-06-18,TKT-10754,2026-06-08,,Teléfono,Reclamo,Cambio de producto,Colombia,48,,Pendiente,,Diego Herrera,Baja,Alto,,10,0.3,5,65.6666666666667
+2026-06-18,TKT-10922,2026-06-09,,Email,Reclamo,Producto dañado,Panamá,72,,Pendiente,,Laura Méndez,Baja,Alto,,9,0.3,3,65
+2026-06-18,TKT-10218,2026-06-12,,Teléfono,Reclamo,Error de cobro,México,24,,Pendiente,,María Torres,Baja,Medio,,6,0.3,6,63
+2026-06-18,TKT-10196,2026-06-17,,Email,Reclamo,Error de cobro,Costa Rica,24,,Pendiente,,Sofía Castillo,Media,Alto,,1,0.6,1,43.6666666666667
+2026-06-18,TKT-10843,2026-06-17,,Email,Reclamo,Entrega tardía,Costa Rica,24,,Pendiente,,Diego Herrera,Media,Alto,,1,0.6,1,43.6666666666667
